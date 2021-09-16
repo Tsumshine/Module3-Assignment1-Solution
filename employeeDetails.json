@@ -1,0 +1,51 @@
+{
+    "employeeListDetails": [{
+        "employeeId": 1,
+        "name": "Lukisi Motsoeneng",
+        "age": 20, 
+        "designation": "Developer",
+        "projectId": "1"
+    }, {
+        "employeeId": 2,
+        "name": "Thabo Pits",
+        "age": 20, 
+        "designation": "Developer",
+        "projectId": "2"
+    }, {
+        "employeeId": 3,
+        "name": "Segopotso ",
+        "age": 20, 
+        "designation": "Developer",
+        "projectId": "3"
+    }, {
+        "employeeId": 4,
+        "name": "Thabang Mashia",
+        "age": 20, 
+        "designation": "Developer",
+        "projectId": "4"
+    }, {
+        "employeeId": 5,
+        "name": "Thabo Shabangu",
+        "age": 20, 
+        "designation": "Developer",
+        "projectId": "3"
+    }, {
+        "employeeId": 6,
+        "name": "Daryl Joubert",
+        "age": 20, 
+        "designation": "Developer",
+        "projectId": "2"
+    }, {
+        "employeeId": 7,
+        "name": "Francoise Nkoue",
+        "age": 20, 
+        "designation": "Developer",
+        "projectId": "1"
+    }, {
+        "employeeId": 8,
+        "name": "Shephard Mziyakho",
+        "age": 20, 
+        "designation": "Developer",
+        "projectId": "4"
+    }]
+}

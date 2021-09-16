@@ -1,0 +1,23 @@
+{
+    "projectListDetails": [{
+        "id": "1",
+        "projectName": "BCS Reporting", 
+        "projectLocation": "Johannesburg",
+        "projectDuration": "1 Year"
+    }, {
+        "id": "2",
+        "projectName": "ARC Reporting", 
+        "projectLocation": "Munich",
+        "projectDuration": "1 Year"
+    }, {
+        "id": "3",
+        "projectName": "QXW Reporting", 
+        "projectLocation": "London",
+        "projectDuration": "1 Year"
+    }, {
+        "id": "4",
+        "projectName": "AAB Reporting", 
+        "projectLocation": "Sydney",
+        "projectDuration": "1 Year"
+    }]
+}
